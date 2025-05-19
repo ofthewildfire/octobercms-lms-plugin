@@ -1,5 +1,5 @@
 {
-    "name": "octobercms/octobercms-lms-plugin",
+    "name": "octobercms/lmsplugin-plugin",
     "description": "A simple LMS plugin for OctoberCMS with role-based access.",
     "type": "october-plugin",
     "require": {
