@@ -1,0 +1,25 @@
+<!-- // {
+//     "name": "fuascailtdev/lmsplugin-plugin",
+//     "description": "A simple LMS plugin for OctoberCMS with role-based access.",
+//     "type": "october-plugin",
+//     "require": {
+//         "php": ">=7.2",
+//         "rainlab/user-plugin": "^1.0"
+//     },
+//     "autoload": {
+//         "psr-4": {
+//             "Fuascailtdev\\LmsPlugin\\": "classes/"
+//         }
+//     },
+//     "extra": {
+//         "october": {
+//             "name": "LMS Plugin",
+//             "description": "A simple LMS plugin for managing categories, sections, courses, and lessons.",
+//             "author": "Kirsten Cochrane",
+//             "icon": "icon-book",
+//             "homepage": "https://github.com/ofthewildfire/octobercms-lms-plugin"
+//         }
+//     },
+//     "minimum-stability": "stable",
+//     "prefer-stable": true
+// } -->
