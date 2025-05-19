@@ -1,6 +1,6 @@
 <?php
 
-namespace OctoberCMS\LmsPlugin\Controllers;
+namespace Fuascailtdev\LmsPlugin\Controllers;
 
 use Backend\Classes\Controller;
 use BackendMenu;

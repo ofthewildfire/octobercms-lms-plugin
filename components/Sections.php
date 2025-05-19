@@ -1,9 +1,9 @@
 <?php
 
-namespace OctoberCMS\LmsPlugin\Components;
+namespace Fuascailtdev\LmsPlugin\Components;
 
 use Cms\Classes\ComponentBase;
-use OctoberCMS\LmsPlugin\Models\Section;
+use Fuascailtdev\LmsPlugin\Models\Section;
 
 class Sections extends ComponentBase
 {

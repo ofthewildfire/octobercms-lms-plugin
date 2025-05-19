@@ -1,9 +1,9 @@
 <?php
 
-namespace OctoberCMS\LMSPlugin\Components;
+namespace Fuascailtdev\LMSPlugin\Components;
 
 use Cms\Classes\ComponentBase;
-use OctoberCMS\LMSPlugin\Classes\CourseManager;
+use Fuascailtdev\LMSPlugin\Classes\CourseManager;
 
 class Courses extends ComponentBase
 {

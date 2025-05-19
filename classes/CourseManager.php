@@ -1,8 +1,8 @@
 <?php
 
-namespace OctoberCMS\LMSPlugin\Classes;
+namespace Fuascailtdev\LMSPlugin\Classes;
 
-use OctoberCMS\LMSPlugin\Models\Course;
+use Fuascailtdev\LMSPlugin\Models\Course;
 
 class CourseManager
 {

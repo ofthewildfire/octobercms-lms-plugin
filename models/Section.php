@@ -1,6 +1,6 @@
 <?php
 
-namespace OctoberCMS\LmsPlugin\Models;
+namespace Fuascailtdev\LmsPlugin\Models;
 
 use Model;
 

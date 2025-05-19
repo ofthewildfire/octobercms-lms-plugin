@@ -1,9 +1,9 @@
 <?php
 
-namespace OctoberCMS\LmsPlugin\Components;
+namespace Fuascailtdev\LmsPlugin\Components;
 
 use Cms\Classes\ComponentBase;
-use OctoberCMS\LmsPlugin\Classes\CategoryManager;
+use Fuascailtdev\LmsPlugin\Classes\CategoryManager;
 
 class Categories extends ComponentBase
 {

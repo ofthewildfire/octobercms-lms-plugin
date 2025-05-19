@@ -1,8 +1,8 @@
 <?php
 
-namespace OctoberCMS\LMSPlugin\Classes;
+namespace Fuascailtdev\LMSPlugin\Classes;
 
-use OctoberCMS\LMSPlugin\Models\Category;
+use Fuascailtdev\LMSPlugin\Models\Category;
 
 class CategoryManager
 {

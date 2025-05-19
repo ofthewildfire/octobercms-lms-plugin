@@ -1,6 +1,6 @@
 <?php
 
-namespace OctoberCMS\LMSPlugin\Classes;
+namespace Fuascailtdev\LMSPlugin\Classes;
 
 use October\Rain\Database\Model;
 
@@ -10,7 +10,7 @@ class SectionManager
 
     public function __construct()
     {
-        $this->sectionModel = new \OctoberCMS\LMSPlugin\Models\Section();
+        $this->sectionModel = new \Fuascailtdev\LMSPlugin\Models\Section();
     }
 
     public function createSection($data)

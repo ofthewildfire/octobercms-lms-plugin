@@ -1,6 +1,6 @@
 <?php
 
-namespace OctoberCMS\LMSPlugin;
+namespace Fuascailtdev\LMSPlugin;
 
 use System\Classes\PluginBase;
 
