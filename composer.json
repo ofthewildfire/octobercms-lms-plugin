@@ -1,5 +1,5 @@
 {
-    "name": "octobercms/lmsplugin-plugin",
+    "name": "fuascailtdev/lmsplugin-plugin",
     "description": "A simple LMS plugin for OctoberCMS with role-based access.",
     "type": "october-plugin",
     "require": {
